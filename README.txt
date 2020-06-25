@@ -52,7 +52,7 @@ Log Aggregator collects the log files from various servers and aggregate them ba
 >Current version of the application requires the prerequisites like Crontab and rsync
 >Manual intervention is required when an error occurs.
 
-**************************FEATURES COMING IN NEXT ITERATION**************************
+**************************FEATURES COMING IN NEXT UPDATE**************************
 
 >Eliminate the requirement of Crontab and rsync.
 >Provide a user friendly GUI where the logs can be accessed based on time and date selection as well as other parameters.
