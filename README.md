@@ -60,7 +60,7 @@ Log Aggregator collects the log files from various servers and aggregate them ba
 >Eliminate the requirement of Crontab and rsync.
 >Provide a user friendly GUI where the logs can be accessed based on time and date selection as well as other parameters.
 >Better presentation of logs by adding adequate graphics.
->A website hosted in AWS, and provide a graphical interface in the dashboard to access the logs of underlying servers.
+>A website hosted in cloud, and provide a graphical interface in the dashboard to access the logs of underlying servers.
 
 **************************PROS AND CONS OF THE APPROACH**************************
 
