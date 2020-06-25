@@ -1,0 +1,166 @@
+>>> 
+==== RESTART: C:\Users\Ebin\Desktop\FINAL\app_monitor_logs_1.0.0_final.py ====
+2018-10-23 19:07:00.464529 
+
+************************* LOGS ITERATION BEGINS ************************* 
+
+YOU ARE :  Ebin 
+
+Ebin YOU ARE IN THE SERVER:  DESKTOP-GHA47MF 
+
+Ebin 	YOU ARE IN THE LOCATION :  C:\Users\Ebin\Desktop\FINAL 
+
+************************* CPU UTILIZATION ************************* 
+1
+************************* CPU LOGS ************************* 
+
+------------------------- CPU TIME IS ------------------------- 
+ [scputimes(user=8516.296875, system=7467.890625, idle=73760.390625, interrupt=755.328125, dpc=944.703125), scputimes(user=8926.890625, system=5896.9375, idle=74920.265625, interrupt=218.890625, dpc=101.234375), scputimes(user=7082.546875, system=3718.9843750000146, idle=78942.56249999999, interrupt=88.890625, dpc=8.890625), scputimes(user=5029.203125, system=3006.203125, idle=81708.68749999999, interrupt=364.640625, dpc=3.03125)]
+------------------------- CPU PERCENTAGE IS ------------------------- 
+ [42.9, 57.1, 14.3, 0.0]
+------------------------- CPU COUNT IS ------------------------- 
+ 4
+------------------------- CPU STATUS IS ------------------------- 
+ scpustats(ctx_switches=523539085, interrupts=446751882, soft_interrupts=0, syscalls=2127240258)
+------------------------- CPU FREQUENCY IS ------------------------- 
+ scpufreq(current=2300.0, min=0.0, max=2300.0)
+************************* MEMORY USAGE ************************* 
+
+************************* MEMORY LOGS ************************* 
+
+------------------------- VIRTUAL MEMORY USAGE IS ------------------------- 
+ svmem(total=3726913536, available=978354176, percent=73.7, used=2748559360, free=978354176)
+------------------------- SWAP MEMORY USAGE IS ------------------------- 
+ sswap(total=6566187008, used=4127109120, free=2439077888, percent=62.9, sin=0, sout=0)
+************************* DISKSPACE USAGE ************************* 
+
+************************* DISK LOGS ************************* 
+
+------------------------- DISK PARTITION IS ------------------------- 
+ [sdiskpart(device='A:\\', mountpoint='A:\\', fstype='NTFS', opts='rw,fixed'), sdiskpart(device='C:\\', mountpoint='C:\\', fstype='NTFS', opts='rw,fixed'), sdiskpart(device='D:\\', mountpoint='D:\\', fstype='NTFS', opts='rw,fixed'), sdiskpart(device='E:\\', mountpoint='E:\\', fstype='', opts='cdrom')]
+------------------------- DISK USAGE IS ------------------------- 
+ sdiskusage(total=757321109504, used=131287822336, free=626033287168, percent=17.3)
+------------------------- DISK I/O IS ------------------------- 
+ sdiskio(read_count=3086167, write_count=842917, read_bytes=160041736704, write_bytes=29984873984, read_time=227768, write_time=26666)
+************************* RUNNING PROCESSESS ************************* 
+
+************************* PROCESS LOGS ************************* 
+
+{'name': 'System Idle Process', 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM'}
+{'name': 'System', 'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM'}
+{'name': 'services.exe', 'pid': 76, 'username': None}
+{'name': 'Registry', 'pid': 104, 'username': None}
+{'name': 'taskhostw.exe', 'pid': 384, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'lsass.exe', 'pid': 440, 'username': None}
+{'name': 'smss.exe', 'pid': 588, 'username': None}
+{'name': 'ShellExperienceHost.exe', 'pid': 672, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'fontdrvhost.exe', 'pid': 688, 'username': None}
+{'name': 'CastSrv.exe', 'pid': 768, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 796, 'username': None}
+{'name': 'csrss.exe', 'pid': 808, 'username': None}
+{'name': 'wininit.exe', 'pid': 952, 'username': None}
+{'name': 'csrss.exe', 'pid': 1000, 'username': None}
+{'name': 'svchost.exe', 'pid': 1064, 'username': None}
+{'name': 'chrome.exe', 'pid': 1184, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 1248, 'username': None}
+{'name': 'svchost.exe', 'pid': 1352, 'username': None}
+{'name': 'svchost.exe', 'pid': 1360, 'username': None}
+{'name': 'svchost.exe', 'pid': 1416, 'username': None}
+{'name': 'svchost.exe', 'pid': 1432, 'username': None}
+{'name': 'atiesrxx.exe', 'pid': 1676, 'username': None}
+{'name': 'svchost.exe', 'pid': 1772, 'username': None}
+{'name': 'svchost.exe', 'pid': 1788, 'username': None}
+{'name': 'svchost.exe', 'pid': 1888, 'username': None}
+{'name': 'Memory Compression', 'pid': 1908, 'username': None}
+{'name': 'chrome.exe', 'pid': 1916, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 2156, 'username': None}
+{'name': 'svchost.exe', 'pid': 2288, 'username': None}
+{'name': 'svchost.exe', 'pid': 2296, 'username': None}
+{'name': 'fontdrvhost.exe', 'pid': 2320, 'username': None}
+{'name': 'LockApp.exe', 'pid': 2368, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 2472, 'username': None}
+{'name': 'svchost.exe', 'pid': 2508, 'username': None}
+{'name': 'atieclxx.exe', 'pid': 2544, 'username': None}
+{'name': 'spoolsv.exe', 'pid': 2592, 'username': None}
+{'name': 'dasHost.exe', 'pid': 2812, 'username': None}
+{'name': 'svchost.exe', 'pid': 2840, 'username': None}
+{'name': 'armsvc.exe', 'pid': 2912, 'username': None}
+{'name': 'avp.exe', 'pid': 2924, 'username': None}
+{'name': 'OfficeClickToRun.exe', 'pid': 2932, 'username': None}
+{'name': 'svchost.exe', 'pid': 2948, 'username': None}
+{'name': 'jenkins.exe', 'pid': 2968, 'username': None}
+{'name': 'SynTPEnhService.exe', 'pid': 2980, 'username': None}
+{'name': 'svchost.exe', 'pid': 2988, 'username': None}
+{'name': 'SecurityHealthService.exe', 'pid': 3032, 'username': None}
+{'name': 'onenoteim.exe', 'pid': 3044, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SettingSyncHost.exe', 'pid': 3104, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 3196, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'sqlwriter.exe', 'pid': 3448, 'username': None}
+{'name': 'svchost.exe', 'pid': 3456, 'username': None}
+{'name': 'avpui.exe', 'pid': 3752, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'dwm.exe', 'pid': 3920, 'username': None}
+{'name': 'java.exe', 'pid': 3996, 'username': None}
+{'name': 'conhost.exe', 'pid': 4164, 'username': None}
+{'name': 'chrome.exe', 'pid': 4428, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'RuntimeBroker.exe', 'pid': 4756, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'notepad.exe', 'pid': 4872, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ONENOTEM.EXE', 'pid': 5016, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SynTPEnh.exe', 'pid': 5100, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ApplicationFrameHost.exe', 'pid': 5112, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'GoogleCrashHandler64.exe', 'pid': 5144, 'username': None}
+{'name': 'SearchFilterHost.exe', 'pid': 5252, 'username': None}
+{'name': 'chrome.exe', 'pid': 5340, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'explorer.exe', 'pid': 5600, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'audiodg.exe', 'pid': 5656, 'username': None}
+{'name': 'chrome.exe', 'pid': 6176, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SearchIndexer.exe', 'pid': 6248, 'username': None}
+{'name': 'redirector.exe', 'pid': 6344, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'RuntimeBroker.exe', 'pid': 6424, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SearchUI.exe', 'pid': 6528, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'RuntimeBroker.exe', 'pid': 6760, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 6776, 'username': None}
+{'name': 'concentr.exe', 'pid': 6780, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'jusched.exe', 'pid': 6860, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'sihost.exe', 'pid': 7200, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ksdeui.exe', 'pid': 7276, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ksde.exe', 'pid': 7308, 'username': None}
+{'name': 'chrome.exe', 'pid': 7336, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 7476, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'wfcrun32.exe', 'pid': 7908, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ReceiverProxy.exe', 'pid': 8184, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'notepad.exe', 'pid': 8240, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'GoogleCrashHandler.exe', 'pid': 8352, 'username': None}
+{'name': 'WmiPrvSE.exe', 'pid': 8372, 'username': None}
+{'name': 'OneDrive.exe', 'pid': 8764, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 9308, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 9352, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SgrmBroker.exe', 'pid': 9364, 'username': None}
+{'name': 'chrome.exe', 'pid': 9516, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SynTPHelper.exe', 'pid': 9544, 'username': None}
+{'name': 'chrome.exe', 'pid': 9744, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'RuntimeBroker.exe', 'pid': 9796, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'Receiver.exe', 'pid': 9872, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'ctfmon.exe', 'pid': 10072, 'username': None}
+{'name': 'prevhost.exe', 'pid': 10384, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SelfService.exe', 'pid': 10552, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'RuntimeBroker.exe', 'pid': 10764, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'dllhost.exe', 'pid': 10816, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 10856, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SearchProtocolHost.exe', 'pid': 10980, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 11220, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'chrome.exe', 'pid': 11536, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SearchProtocolHost.exe', 'pid': 11540, 'username': None}
+{'name': 'chrome.exe', 'pid': 11680, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'dllhost.exe', 'pid': 12048, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'SelfServicePlugin.exe', 'pid': 12116, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'pythonw.exe', 'pid': 12196, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'pythonw.exe', 'pid': 12328, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'MSASCuiL.exe', 'pid': 12516, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'svchost.exe', 'pid': 12628, 'username': None}
+{'name': 'chrome.exe', 'pid': 12900, 'username': 'DESKTOP-GHA47MF\\Ebin'}
+{'name': 'winlogon.exe', 'pid': 12976, 'username': None}
+{'name': 'svchost.exe', 'pid': 13056, 'username': None}
+
+ ************************* END OF LOGS ITERATION ************************* 
+
+>>> 
